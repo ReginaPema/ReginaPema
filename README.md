@@ -1,24 +1,41 @@
 # hello-world
-Hi! I'm Regina Castillo. Data Scientist in training | Healthtech &amp; Sustainability
+<!-- HEADER -->
+<div align="center">
 
-# Hola, soy Regina Castillo 👋  
-### Científica de Datos en formación | Healthtech & Sustentabilidad
+# Hi, I'm Regina Castillo 👋  
+### Data Scientist in Training | Científica de Datos en Formación
 
-Soy una profesional con más de 5 años de experiencia en análisis de 
-operaciones, detección de fraude y gestión de datos, actualmente en 
-transición hacia Ciencia de Datos con el certificado de 
-**Profesión Científico de Datos (EBAC)**.
+*CDMX, México 🇲🇽 · English C2 · Español nativo*
 
-Mi perfil interdisciplinario combina experiencia real con datos en 
-entornos corporativos, formación técnica en Python y estadística, y 
-un background único en salud y sustentabilidad ambiental que me 
-permite ver los problemas desde perspectivas que otros no tienen.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/reginapema)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maregina.castillotrev@gmail.com)
+
+</div>
 
 ---
 
-## 🛠️ Stack técnico
+## 🧬 About me / Sobre mí
 
-**Lenguajes & herramientas:**  
+**EN** · I'm a professional transitioning into Data Science, combining 5+ years 
+of experience in operations analysis, digital fraud detection, and data-driven 
+decision making with active technical training in Python, statistics, and 
+data methodologies. My interdisciplinary background in health (licensed 
+acupuncturist), environmental engineering, and corporate analytics gives me 
+a unique perspective on data problems.
+
+**ES** · Soy una profesional en transición hacia Ciencia de Datos, con más de 
+5 años de experiencia en análisis de operaciones, detección de fraude digital 
+y toma de decisiones basada en datos, combinados con formación técnica activa 
+en Python, estadística y metodologías de análisis. Mi perfil interdisciplinario 
+en salud (acupunturista certificada), ingeniería ambiental y analítica corporativa 
+me da una perspectiva única para resolver problemas con datos.
+
+---
+
+## 🛠️ Tech Stack
+
+**Currently working with / Actualmente usando:**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -27,34 +44,42 @@ permite ver los problemas desde perspectivas que otros no tienen.
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**En aprendizaje activo:**  
-SQL · Power BI · Machine Learning · CRISP-DM
+**Learning next / En aprendizaje:**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
-## 📂 Proyectos destacados
+## 📂 Featured Projects / Proyectos Destacados
 
-| Proyecto | Descripción | Herramientas |
+| Project | Description | Tools |
 |---|---|---|
-| [🧹 ETL: Limpieza de Datos de Ventas](https://github.com/PemaYue/etl-sales-data-cleaning) | Integración y transformación de múltiples fuentes de datos de ventas retail | Python, Pandas, NumPy |
-| [📊 EDA: Análisis Exploratorio de Ventas](https://github.com/PemaYue/eda-retail-sales-analysis) | Análisis visual de tendencias, patrones y correlaciones en datos de ventas | Python, Matplotlib, Seaborn |
+| [🧹 ETL: Sales Data Cleaning](https://github.com/PemaYue/etl-sales-data-cleaning) | Integration & transformation of multi-source retail sales data · Integración y transformación de datos de ventas retail desde múltiples fuentes | Python · Pandas · NumPy |
+| [📊 EDA: Retail Sales Analysis](https://github.com/PemaYue/eda-retail-sales-analysis) | Exploratory analysis of sales trends, patterns & outliers · Análisis exploratorio de tendencias, patrones y valores atípicos en ventas | Python · Matplotlib · Seaborn |
 
 ---
 
-## 🎯 Áreas de interés
+## 🎯 Areas of Interest / Áreas de Interés
 
-- 🏥 **Healthtech & Datos de Salud** — experiencia clínica en acupuntura + datos
-- 🌿 **Sustentabilidad & Medio Ambiente** — formación en ingeniería ambiental
-- 🔐 **Análisis de Fraude & Seguridad Digital** — experiencia profesional real
-- 📈 **Business Analytics** — gestión de operaciones y reportes financieros
-
----
-
-## 📫 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/reginapema)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maregina.castillotrev@gmail.com)
+| 🏥 Healthtech & Health Data | 🌿 Sustainability & Environment |
+|---|---|
+| Licensed acupuncturist · clinical data patterns | Environmental engineering background |
+| **🔐 Fraud & Digital Security** | **📈 Business Analytics** |
+| 4+ years detecting fraud patterns at scale | Operations management · Financial reporting |
 
 ---
 
-*🇲🇽 CDMX · Español nativo · Inglés C2 · Disponible para trabajo remoto*
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Regina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PemaYue&show_icons=true&theme=default&hide_border=true&title_color=1A7F7A&icon_color=1A7F7A)
+
+</div>
+
+---
+
+*Currently completing the **Data Scientist Certificate** at EBAC · 
+Actualmente cursando el **certificado Científico de Datos** en EBAC* 🎓
