@@ -36,8 +36,8 @@ SQL · Power BI · Machine Learning · CRISP-DM
 
 | Proyecto | Descripción | Herramientas |
 |---|---|---|
-| [🧹 ETL: Limpieza de Datos de Ventas](https://github.com/PemaYue/etl-limpieza-datos-ventas) | Integración y transformación de múltiples fuentes de datos de ventas retail | Python, Pandas, NumPy |
-| [📊 EDA: Análisis Exploratorio de Ventas](https://github.com/PemaYue/eda-ventas-retail) | Análisis visual de tendencias, patrones y correlaciones en datos de ventas | Python, Matplotlib, Seaborn |
+| [🧹 ETL: Limpieza de Datos de Ventas](https://github.com/PemaYue/etl-sales-data-cleaning) | Integración y transformación de múltiples fuentes de datos de ventas retail | Python, Pandas, NumPy |
+| [📊 EDA: Análisis Exploratorio de Ventas](https://github.com/PemaYue/eda-retail-sales-analysis) | Análisis visual de tendencias, patrones y correlaciones en datos de ventas | Python, Matplotlib, Seaborn |
 
 ---
 
