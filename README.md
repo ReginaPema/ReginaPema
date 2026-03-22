@@ -56,8 +56,8 @@ me da una perspectiva única para resolver problemas con datos.
 
 | Project | Description | Tools |
 |---|---|---|
-| [🧹 ETL: Sales Data Cleaning](https://github.com/PemaYue/etl-sales-data-cleaning) | Integration & transformation of multi-source retail sales data · Integración y transformación de datos de ventas retail desde múltiples fuentes | Python · Pandas · NumPy |
-| [📊 EDA: Retail Sales Analysis](https://github.com/PemaYue/eda-retail-sales-analysis) | Exploratory analysis of sales trends, patterns & outliers · Análisis exploratorio de tendencias, patrones y valores atípicos en ventas | Python · Matplotlib · Seaborn |
+| [🧹 ETL: Sales Data Cleaning](https://github.com/ReginaPema/etl-sales-data-cleaning) | Integration & transformation of multi-source retail sales data · Integración y transformación de datos de ventas retail desde múltiples fuentes | Python · Pandas · NumPy |
+| [📊 EDA: Retail Sales Analysis](https://github.com/ReginaPema/eda-retail-sales-analysis) | Exploratory analysis of sales trends, patterns & outliers · Análisis exploratorio de tendencias, patrones y valores atípicos en ventas | Python · Matplotlib · Seaborn |
 
 ---
 
@@ -75,7 +75,7 @@ me da una perspectiva única para resolver problemas con datos.
 
 <div align="center">
 
-![Regina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PemaYue&show_icons=true&theme=default&hide_border=true&title_color=1A7F7A&icon_color=1A7F7A)
+![Regina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReginaPema&show_icons=true&theme=default&hide_border=true&title_color=1A7F7A&icon_color=1A7F7A)
 
 </div>
 
