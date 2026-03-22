@@ -16,7 +16,7 @@
 
 ## 🧬 About me / Sobre mí
 
-**EN** · I'm a professional transitioning into Data Science, combining 5+ years 
+**EN** · I'm a professional transitioning into Data Science, combining 8+ years 
 of experience in operations analysis, digital fraud detection, and data-driven 
 decision making with active technical training in Python, statistics, and 
 data methodologies. My interdisciplinary background in health (licensed 
@@ -24,7 +24,7 @@ acupuncturist), environmental engineering, and corporate analytics gives me
 a unique perspective on data problems.
 
 **ES** · Soy una profesional en transición hacia Ciencia de Datos, con más de 
-5 años de experiencia en análisis de operaciones, detección de fraude digital 
+8 años de experiencia en análisis de operaciones, detección de fraude digital 
 y toma de decisiones basada en datos, combinados con formación técnica activa 
 en Python, estadística y metodologías de análisis. Mi perfil interdisciplinario 
 en salud (acupunturista certificada), ingeniería ambiental y analítica corporativa 
