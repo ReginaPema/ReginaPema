@@ -3,7 +3,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=300&size=14&duration=3000&pause=1000&color=8B9E8B&center=true&vCenter=true&width=500&lines=%F0%9F%AA%B7+pema+%C2%B7+lotus+%C2%B7+%E8%8E%B2%E8%8A%B1;%F0%9F%8C%99+yue+%C2%B7+moon+%C2%B7+%E6%9C%88%E4%BA%AE;%F0%9F%8C%BF+data+%C2%B7+health+%C2%B7+earth" alt="Typing SVG" />
 
-# Hi, I'm Regina Castillo 👋
+# Hi, I'm Regina Castillo
 
 **Data Scientist in Training · Científica de Datos en Formación**
 
@@ -17,8 +17,6 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="cat typing" />
-
 ## 🌿 About me / Sobre mí
 
 **EN** · Data Science professional in active training, with 8+ years of experience in operations analytics, digital fraud detection, and data-driven decision making. Interdisciplinary background in healthcare (licensed acupuncturist 🪷), environmental engineering 🌿, and corporate analytics — uniquely positioned to find patterns where others see noise.
@@ -27,7 +25,7 @@
 
 ---
 
-## 🐍 A little more about me...
+## 😽 A little more about me...
 ```python
 regina = {
     "name"      : "María Regina Castillo Trevillo",
@@ -37,9 +35,9 @@ regina = {
     "tools"     : ["Jupyter Notebook", "Git", "Google Colab"],
     "learning"  : ["SQL", "Power BI", "Machine Learning"],
     "background": ["Healthtech 🏥", "Environmental Science 🌿", "Fraud Analytics 🔐"],
-    "languages" : ["Spanish (native)", "English (C2)", "Tibetan (reading 📖)"],
+    "languages" : ["Spanish (native)", "English (C2)", "French (basic)" "Tibetan (reading 📖)"],
     "also_into" : ["Acupuncture", "Yoga & Meditation 🧘", "Crochet 🪡"],
-    "fun_fact"  : "I read patterns in data the same way I read them in the body 🪷"
+    "fun_fact"  : "I read patterns in data the same way I read them in the body and mind"
 }
 ```
 
@@ -76,27 +74,17 @@ regina = {
 
 ## 🎯 Areas of Interest / Áreas de Interés
 ```
-🏥  Healthtech & Health Data      →  clinical patterns + data science
+❤️‍🩹  Healthtech & Health Data      →  clinical patterns + data science
 🌿  Sustainability & Environment  →  environmental engineering background  
-🔐  Fraud & Digital Security      →  4+ years detecting anomalies at scale
+🔐  Fraud & Digital Security      →  2+ years detecting anomalies at scale
 📈  Business Analytics            →  operations management & financial reporting
 ```
 
 ---
 
-## 🌙 GitHub Stats
-
 <div align="center">
 
-![Regina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReginaPema&show_icons=true&hide_border=true&title_color=8B9E8B&icon_color=B8A9C9&text_color=6B7F6B&bg_color=00000000)
-
-</div>
-
----
-
-<div align="center">
-
-*"I read patterns in data the same way I read them in the body."* 🪷
+*"I read patterns in data the same way I read them in the body and mind."* 🪷🌙
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ReginaPema&color=8B9E8B&style=flat&label=profile+views)
 
