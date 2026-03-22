@@ -19,9 +19,9 @@
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNub2xzbnNzeGQ2MzZvNTBod2h6YnU2ejQ0MmJmdXlnZGpubGxkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZpIGzRjmnTRu6pqwu8/giphy.gif" width="50"> About me / Sobre mí
 
-**EN** · Data Science professional in active training, with 8+ years of experience in operations analytics, digital fraud detection, and data-driven decision making. Interdisciplinary background in healthcare (licensed acupuncturist), environmental engineering, and corporate analytics — uniquely positioned to find patterns where others see noise.
+**EN** · Data Science professional in active training, with 8+ years of experience in operations analytics, digital fraud detection, and data-driven decision making. Interdisciplinary background in healthcare (licensed acupuncturist), environmental engineering, and corporate analytics. Uniquely positioned to find patterns where others see noise.
 
-**ES** · Profesional en transición hacia Ciencia de Datos, con más de 8 años de experiencia en análisis de operaciones, detección de fraude digital y toma de decisiones basada en datos. Perfil interdisciplinario en salud (acupunturista certificada), ingeniería ambiental y analítica corporativa — entrenada para encontrar patrones donde otros ven ruido.
+**ES** · Profesional en transición hacia Ciencia de Datos, con más de 8 años de experiencia en análisis de operaciones, detección de fraude digital y toma de decisiones basada en datos. Perfil interdisciplinario en salud (acupunturista certificada), ingeniería ambiental y analítica corporativa. Entrenada para encontrar patrones donde otros ven ruido.
 
 ---
 
