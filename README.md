@@ -72,7 +72,7 @@ regina = {
 
 ---
 
-## 🎯 Areas of Interest / Áreas de Interés
+## 🌙 Areas of Interest / Áreas de Interés
 ```
 ❤️‍🩹  Healthtech & Health Data      →  clinical patterns + data science
 🌿  Sustainability & Environment  →  environmental engineering background  
