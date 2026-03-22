@@ -19,24 +19,24 @@
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNub2xzbnNzeGQ2MzZvNTBod2h6YnU2ejQ0MmJmdXlnZGpubGxkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZpIGzRjmnTRu6pqwu8/giphy.gif" width="50"> About me / Sobre mí
 
-**EN** · Data Science professional in active training, with 8+ years of experience in operations analytics, digital fraud detection, and data-driven decision making. Interdisciplinary background in healthcare (licensed acupuncturist 🪷), environmental engineering 🌿, and corporate analytics — uniquely positioned to find patterns where others see noise.
+**EN** · Data Science professional in active training, with 8+ years of experience in operations analytics, digital fraud detection, and data-driven decision making. Interdisciplinary background in healthcare (licensed acupuncturist), environmental engineering, and corporate analytics — uniquely positioned to find patterns where others see noise.
 
-**ES** · Profesional en transición hacia Ciencia de Datos, con más de 8 años de experiencia en análisis de operaciones, detección de fraude digital y toma de decisiones basada en datos. Perfil interdisciplinario en salud (acupunturista certificada 🪷), ingeniería ambiental 🌿 y analítica corporativa — entrenada para encontrar patrones donde otros ven ruido.
+**ES** · Profesional en transición hacia Ciencia de Datos, con más de 8 años de experiencia en análisis de operaciones, detección de fraude digital y toma de decisiones basada en datos. Perfil interdisciplinario en salud (acupunturista certificada), ingeniería ambiental y analítica corporativa — entrenada para encontrar patrones donde otros ven ruido.
 
 ---
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjg0eXA3YTB5c2xrNzRqdnUzb2YybWlrcWtjYmUyYzJibjE0YTRvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/An1Ck30OzTHunegNlw/giphy.gif" width="40"> A little more about me...
 ```python
 regina = {
-    "name"      : "María Regina Castillo Trevillo",
-    "alias"     : "Pema 🪷 (lotus) + Yue 🌙 (moon)",
+    "name"      : "María Regina Castillo Treviño",
+    "alias"     : "Pema Yue (Lotus + Moon)",
     "role"      : "Data Scientist in training",
     "code"      : ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
-    "tools"     : ["Jupyter Notebook", "Git", "Google Colab"],
+    "tools"     : ["Jupyter Notebook", "Git", "Google Colab", "Orange"],
     "learning"  : ["SQL", "Power BI", "Machine Learning"],
-    "background": ["Healthtech 🏥", "Environmental Science 🌿", "Fraud Analytics 🔐"],
-    "languages" : ["Spanish (native)", "English (C2)", "French (basic)" "Tibetan (reading 📖)"],
-    "also_into" : ["Acupuncture", "Yoga & Meditation 🧘", "Crochet 🪡"],
+    "background": ["Healthtech", "Environmental Science", "Fraud Analytics"],
+    "languages" : ["Spanish (native)", "English (C2)", "French (basic)" "Tibetan (reading)"],
+    "also_into" : ["Acupuncture", "Yoga & Meditation", "Crochet"],
 }
 ```
 
@@ -53,6 +53,7 @@ regina = {
 ![Seaborn](https://img.shields.io/badge/Seaborn-9BB5B5?style=flat)
 ![Jupyter](https://img.shields.io/badge/Jupyter-C4A882?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-8B9E8B?style=flat&logo=git&logoColor=white)
+![Orange](https://img.shields.io/badge/Orange-EC9F53?style=flat&logo=orange&logoColor=white)
 
 **Learning next / Aprendiendo:**
 
