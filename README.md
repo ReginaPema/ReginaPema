@@ -32,20 +32,12 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjg0eXA3YTB5c2xrNzRqdnUzb2YybWlrcWtjYmUyYzJibjE0YTRvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/An1Ck30OzTHunegNlw/giphy.gif" width="40"> A little more about me...
-```python
-regina = {
-    "name"      : "María Regina Castillo Treviño",
-    "alias"     : "Pema Yue (Lotus + Moon)",
-    "role"      : "Data Scientist in training",
-    "code"      : ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
-    "tools"     : ["Jupyter Notebook", "Git", "Google Colab", "Orange Data Mining"],
-    "learning"  : ["SQL", "Power BI", "Machine Learning"],
-    "background": ["Healthtech", "Environmental Science", "Fraud Analytics"],
-    "languages" : ["Spanish (native)", "English (C2)", "French (basic)", "Tibetan (reading)"],
-    "also_into" : ["Acupuncture", "Yoga & Meditation", "Crochet"],
-}
-```
+## <img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a296MGE1MGYweTBlaXJzNzgya3VidXFlcnZ6cmZ0OGs5YWtkOWthMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NQDcH2ZZaPV8QBDYK3/giphy.webp" width="40"> Featured Projects / Proyectos Destacados
+
+| Project | Description | Tools |
+|---|---|---|
+| [EDA: Retail Sales Analysis](https://github.com/ReginaPema/eda-retail-sales-analysis) | Exploratory analysis of sales trends, patterns & outliers · Análisis exploratorio de tendencias y patrones en ventas retail | Python · Matplotlib · Seaborn |
+| [ETL: Sales Data Cleaning](https://github.com/ReginaPema/etl-sales-data-cleaning) | Multi-source data integration & transformation · Integración y transformación de datos desde múltiples fuentes | Python · Pandas · NumPy |
 
 ---
 
@@ -71,12 +63,20 @@ regina = {
 
 ---
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a296MGE1MGYweTBlaXJzNzgya3VidXFlcnZ6cmZ0OGs5YWtkOWthMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NQDcH2ZZaPV8QBDYK3/giphy.webp" width="40"> Featured Projects / Proyectos Destacados
-
-| Project | Description | Tools |
-|---|---|---|
-| [EDA: Retail Sales Analysis](https://github.com/ReginaPema/eda-retail-sales-analysis) | Exploratory analysis of sales trends, patterns & outliers · Análisis exploratorio de tendencias y patrones en ventas retail | Python · Matplotlib · Seaborn |
-| [ETL: Sales Data Cleaning](https://github.com/ReginaPema/etl-sales-data-cleaning) | Multi-source data integration & transformation · Integración y transformación de datos desde múltiples fuentes | Python · Pandas · NumPy |
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjg0eXA3YTB5c2xrNzRqdnUzb2YybWlrcWtjYmUyYzJibjE0YTRvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/An1Ck30OzTHunegNlw/giphy.gif" width="40"> A little more about me...
+```python
+regina = {
+    "name"      : "María Regina Castillo Treviño",
+    "alias"     : "Pema Yue (Lotus + Moon)",
+    "role"      : "Data Scientist in training",
+    "code"      : ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
+    "tools"     : ["Jupyter Notebook", "Git", "Google Colab", "Orange Data Mining"],
+    "learning"  : ["SQL", "Power BI", "Machine Learning"],
+    "background": ["Healthtech", "Environmental Science", "Fraud Analytics"],
+    "languages" : ["Spanish (native)", "English (C2)", "French (basic)", "Tibetan (reading)"],
+    "also_into" : ["Acupuncture", "Yoga & Meditation", "Crochet"],
+}
+```
 
 ---
 
