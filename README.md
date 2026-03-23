@@ -5,21 +5,18 @@
 
 # Hi, I'm Regina Castillo <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTQ2dW8wNWtybjNobzFhOXc2OHVsa2xldW1vZzFpdDE2Zm5iN3ZxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1Gl7sFoJssmTnX74BE/giphy.gif" width="60">
 
-**Data Scientist in Training · Científica de Datos en Formación**
-
-*CDMX 🇲🇽 · English C2 · Español nativo*
+### **Data Scientist in Training · Científica de Datos en Formación**
 
 <div align="center">
 
 <a href="https://linkedin.com/in/reginapema" target="_blank">
-  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"/>
-</a>
+  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"/></a>
+
 <a href="https://github.com/ReginaPema" target="_blank" style="margin-left: 10px;">
-  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"/>
-</a>
+  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"/></a>
+
 <a href="mailto:maregina.castillotrev@gmail.com" style="margin-left: 10px;">
-  <img src="https://img.icons8.com/doodle/40/000000/gmail--v1.png" alt="Email"/>
-</a>
+  <img src="https://img.icons8.com/doodle/40/000000/gmail--v1.png" alt="Email"/></a>
 
 </div>
 
@@ -58,11 +55,12 @@ regina = {
 
 ![Python](https://img.shields.io/badge/Python-8B9E8B?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-6B7F6B?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-C4A882?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-7A9E9F?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-8B9E8B?style=flat&logo=git&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-7A9E9F?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-B8A9C9?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-9BB5B5?style=flat)
-![Jupyter](https://img.shields.io/badge/Jupyter-C4A882?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-8B9E8B?style=flat&logo=git&logoColor=white)
 ![Orange](https://img.shields.io/badge/Orange_Data_Mining-EC9F53?style=flat&logoColor=white)
 
 **Learning next / Aprendiendo:**
