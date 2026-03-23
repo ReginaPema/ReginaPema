@@ -9,9 +9,19 @@
 
 *CDMX 🇲🇽 · English C2 · Español nativo*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B9E8B?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/reginapema)
-[![Email](https://img.shields.io/badge/Email-B8A9C9?style=flat&logo=gmail&logoColor=white)](mailto:maregina.castillotrev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-6B7F6B?style=flat&logo=github&logoColor=white)](https://github.com/ReginaPema)
+<div align="center">
+
+<a href="https://linkedin.com/in/reginapema" target="_blank">
+  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/ReginaPema" target="_blank" style="margin-left: 10px;">
+  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"/>
+</a>
+<a href="mailto:maregina.castillotrev@gmail.com" style="margin-left: 10px;">
+  <img src="https://img.icons8.com/doodle/40/000000/gmail--v1.png" alt="Email"/>
+</a>
+
+</div>
 
 </div>
 
@@ -32,10 +42,10 @@ regina = {
     "alias"     : "Pema Yue (Lotus + Moon)",
     "role"      : "Data Scientist in training",
     "code"      : ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
-    "tools"     : ["Jupyter Notebook", "Git", "Google Colab", "Orange"],
+    "tools"     : ["Jupyter Notebook", "Git", "Google Colab", "Orange Data Mining"],
     "learning"  : ["SQL", "Power BI", "Machine Learning"],
     "background": ["Healthtech", "Environmental Science", "Fraud Analytics"],
-    "languages" : ["Spanish (native)", "English (C2)", "French (basic)" "Tibetan (reading)"],
+    "languages" : ["Spanish (native)", "English (C2)", "French (basic)", "Tibetan (reading)"],
     "also_into" : ["Acupuncture", "Yoga & Meditation", "Crochet"],
 }
 ```
@@ -53,7 +63,7 @@ regina = {
 ![Seaborn](https://img.shields.io/badge/Seaborn-9BB5B5?style=flat)
 ![Jupyter](https://img.shields.io/badge/Jupyter-C4A882?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-8B9E8B?style=flat&logo=git&logoColor=white)
-![Orange](https://img.shields.io/badge/Orange-EC9F53?style=flat&logo=orange&logoColor=white)
+![Orange](https://img.shields.io/badge/Orange_Data_Mining-EC9F53?style=flat&logoColor=white)
 
 **Learning next / Aprendiendo:**
 
