@@ -1,7 +1,7 @@
 <!-- Header animado -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Lato&weight=300&size=14&duration=3000&pause=1000&color=8B9E8B&center=true&vCenter=true&width=500&lines=%F0%9F%AA%B7+pema+%C2%B7+lotus+%C2%B7+%E8%8E%B2%E8%8A%B1;%F0%9F%8C%99+yue+%C2%B7+moon+%C2%B7+%E6%9C%88%E4%BA%AE;%F0%9F%8C%BF+data+%C2%B7+health+%C2%B7+earth" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Lato&weight=300&size=14&duration=3000&pause=1000&color=8B9E8B&center=true&vCenter=true&width=500&lines=%F0%9F%AA%B7+pema+%C2%B7+lotus+%C2%B7+%E8%8E%B2%E8%8A%B1;%F0%9F%8C%BF+data+%C2%B7+health+%C2%B7+earth" alt="Typing SVG" />
 
 # Hi, I'm Regina Castillo <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTQ2dW8wNWtybjNobzFhOXc2OHVsa2xldW1vZzFpdDE2Zm5iN3ZxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1Gl7sFoJssmTnX74BE/giphy.gif" width="60">
 
@@ -63,36 +63,49 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjg0eXA3YTB5c2xrNzRqdnUzb2YybWlrcWtjYmUyYzJibjE0YTRvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/An1Ck30OzTHunegNlw/giphy.gif" width="40"> A little more about me...
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVsaGlxZmEyN2h6NDMxaWkzYjkzNnhwYnE0c2V6M2JzcjIyeHY5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PWPahPNXOkLlUx2Nw5/giphy.gif" width="40"> Areas of Interest / Áreas de Interés
+```
+Healthtech & Health Data      →  clinical patterns + data science
+Sustainability & Environment  →  environmental engineering background  
+Fraud & Digital Security      →  1+ years detecting anomalies & risk flags
+Business Analytics            →  8+ operations management & financial reporting
+```
+
+---
+
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s0azk0cGRhb2M4bGV1M2lqcXI3ZTRsdGJ0bmYzdXdtdXBtcWVuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KV6r1zHy3i7mmBGGui/giphy.gif" width="40"> A little more about me...
 ```python
 regina = {
-    "name"      : "María Regina Castillo Treviño",
-    "alias"     : "Pema Yue (Lotus + Moon)",
-    "role"      : "Data Scientist in training",
-    "code"      : ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
-    "tools"     : ["Jupyter Notebook", "Git", "Google Colab", "Orange Data Mining"],
-    "learning"  : ["SQL", "Power BI", "Machine Learning"],
-    "background": ["Healthtech", "Environmental Science", "Fraud Analytics"],
-    "languages" : ["Spanish (native)", "English (C2)", "French (basic)", "Tibetan (reading)"],
-    "also_into" : ["Acupuncture", "Yoga & Meditation", "Crochet"],
+    "name"       : "María Regina Castillo Treviño",
+    "alias"      : "Pema · པ་དྨེ། · Lotus",
+    "role"       : "Data Scientist in training",
+    "background" : ["Healthcare", "Environmental Science", "Fraud Analytics"],
+    "languages"  : ["Spanish (native)", "English (C2)", "French (basic)", "Tibetan (reading)"],
+    "strengths"  : ["Interdisciplinary thinking", "Pattern recognition", "Attention to detail"],
+    "weaknesses" : ["Taking on too many interests at once", "Perfectionism"],
+    "also_into"  : ["Acupuncture", "Yoga & Meditation", "Crochet", "Cats"],
 }
 ```
 
 ---
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVsaGlxZmEyN2h6NDMxaWkzYjkzNnhwYnE0c2V6M2JzcjIyeHY5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PWPahPNXOkLlUx2Nw5/giphy.gif" width="40"> Areas of Interest / Áreas de Interés
-```
-Healthtech & Health Data      →  clinical patterns + data science
-Sustainability & Environment  →  environmental engineering background  
-Fraud & Digital Security      →  2+ years detecting anomalies at scale
-Business Analytics            →  operations management & financial reporting
-```
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjg0eXA3YTB5c2xrNzRqdnUzb2YybWlrcWtjYmUyYzJibjE0YTRvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/An1Ck30OzTHunegNlw/giphy.gif" width="40"> GitHub Stats 
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ReginaPema&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ReginaPema&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-*"I read patterns in data the same way I read them in the body and mind."* <img src="https://i.giphy.com/d2rr2UqzYOwxVWIUew.webp" width="50">
+*"I read patterns in data the same way I read them in the body and mind."* 
+
+<img src="https://i.giphy.com/d2rr2UqzYOwxVWIUew.webp" width="50">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ReginaPema&color=8B9E8B&style=flat&label=profile+views)
 
