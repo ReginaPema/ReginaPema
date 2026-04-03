@@ -93,9 +93,7 @@ regina = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ReginaPema&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ReginaPema&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ReginaPema&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
