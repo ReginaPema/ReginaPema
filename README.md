@@ -95,6 +95,8 @@ regina = {
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ReginaPema&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
 
+<img src="https://github-readme-stats.vercel.app/api?username=ReginaPema&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="ReginaPema's GitHub Stats" />
+
 </div>
 
 ---
