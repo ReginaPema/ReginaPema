@@ -36,6 +36,7 @@
 
 | Project | Description | Tools |
 |---|---|---|
+| [K-Means: Vanish Segmentation](https://github.com/ReginaPema/kmeans-vanish-segmentation) | Market segmentation with K-Means clustering · Segmentación de mercado con K-Means | Python · Scikit-learn · PCA |
 | [EDA: Retail Sales Analysis](https://github.com/ReginaPema/eda-retail-sales-analysis) | Exploratory analysis of sales trends, patterns & outliers · Análisis exploratorio de tendencias y patrones en ventas retail | Python · Matplotlib · Seaborn |
 | [ETL: Sales Data Cleaning](https://github.com/ReginaPema/etl-sales-data-cleaning) | Multi-source data integration & transformation · Integración y transformación de datos desde múltiples fuentes | Python · Pandas · NumPy |
 
@@ -45,21 +46,21 @@
 
 **Working with / Usando:**
 
-![Python](https://img.shields.io/badge/Python-8B9E8B?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-6B7F6B?style=flat&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-C4A882?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-7A9E9F?style=flat&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-8B9E8B?style=flat&logo=git&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-7A9E9F?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-B8A9C9?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-9BB5B5?style=flat)
-![Orange](https://img.shields.io/badge/Orange_Data_Mining-EC9F53?style=flat&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-76B7B2?style=flat&logo=seaborn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Orange](https://img.shields.io/badge/Orange-FF7F00?style=flat&logo=orange&logoColor=white)
 
 **Learning next / Aprendiendo:**
 
-![SQL](https://img.shields.io/badge/SQL-7A9E9F?style=flat&logo=mysql&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-C4A882?style=flat&logo=powerbi&logoColor=white)
-![ScikitLearn](https://img.shields.io/badge/scikit--learn-B8A9C9?style=flat&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
 
