@@ -49,6 +49,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logoColor=white)](https://learn.microsoft.com/sql/ssms)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)]()
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-76B7B2?style=flat&logo=seaborn&logoColor=white)
@@ -59,7 +62,6 @@
 
 **Learning next / Aprendiendo:**
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
