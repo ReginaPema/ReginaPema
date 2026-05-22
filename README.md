@@ -1,11 +1,11 @@
 <!-- Header animado -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Lato&weight=300&size=14&duration=3000&pause=1000&color=8B9E8B&center=true&vCenter=true&width=500&lines=%F0%9F%AA%B7+pema+%C2%B7+lotus+%C2%B7+%E8%8E%B2%E8%8A%B1;%F0%9F%8C%BF+data+%C2%B7+health+%C2%B7+earth" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Lato&weight=300&size=14&duration=3000&pause=1000&color=8B9E8B&center=true&vCenter=true&width=500&lines=%F0%9F%AA%B7+pema+%C2%B7+lotus+%C2%B7+%E8%8E%B2%E8%8A%B1;%F0%9F%8C%BF+data+%C2%B7+systems+%C2%B7+patterns" alt="Typing SVG" align="center"/>
 
-# Hi, I'm Regina Castillo <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTQ2dW8wNWtybjNobzFhOXc2OHVsa2xldW1vZzFpdDE2Zm5iN3ZxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1Gl7sFoJssmTnX74BE/giphy.gif" width="60">
+# Hi, I'm Regina Castillo <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTQ2dW8wNWtybjNobzFhOXc2OHVsa2xldW1vZzFpdDE2Zm5iN3ZxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1Gl7sFoJssmTnX74BE/giphy.gif" width="58" align="center">
 
-### **Data Scientist in Training · Científica de Datos en Formación**
+### **Data Analyst | Data Scientist Jr**
 
 <div align="center">
 
@@ -24,25 +24,25 @@
 
 ---
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNub2xzbnNzeGQ2MzZvNTBod2h6YnU2ejQ0MmJmdXlnZGpubGxkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZpIGzRjmnTRu6pqwu8/giphy.gif" width="50"> About me / Sobre mí
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNub2xzbnNzeGQ2MzZvNTBod2h6YnU2ejQ0MmJmdXlnZGpubGxkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZpIGzRjmnTRu6pqwu8/giphy.gif" width="55" align="center"> About me / Sobre mí
 
-**EN** · Data Science professional in active training, with 8+ years of experience in operations analytics, digital fraud detection, and data-driven decision making. Interdisciplinary background in healthcare (licensed acupuncturist), environmental engineering, and corporate analytics. Uniquely positioned to find patterns where others see noise.
+**EN** · Data Analyst with experience in operations analytics, digital fraud detection, and data-driven decision making in multicultural environments. Background spanning business operations, environmental engineering, and healthcare, bringing an interdisciplinary approach to analytical problem-solving. Interested in pattern recognition, business intelligence, and transforming complex data into actionable insights.
 
-**ES** · Profesional en transición hacia Ciencia de Datos, con más de 8 años de experiencia en análisis de operaciones, detección de fraude digital y toma de decisiones basada en datos. Perfil interdisciplinario en salud (acupunturista certificada), ingeniería ambiental y analítica corporativa. Entrenada para encontrar patrones donde otros ven ruido.
+**ES** · Analista de Datos con experiencia en análisis operativo, detección de fraude digital y toma de decisiones basada en datos en entornos multiculturales. Perfil interdisciplinario con experiencia en operaciones, ingeniería ambiental y salud, enfocado en resolver problemas mediante análisis y reconocimiento de patrones. Interesada en business intelligence y en transformar datos complejos en insights accionables.
 
 ---
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a296MGE1MGYweTBlaXJzNzgya3VidXFlcnZ6cmZ0OGs5YWtkOWthMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NQDcH2ZZaPV8QBDYK3/giphy.webp" width="40"> Featured Projects / Proyectos Destacados
+## <img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a296MGE1MGYweTBlaXJzNzgya3VidXFlcnZ6cmZ0OGs5YWtkOWthMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NQDcH2ZZaPV8QBDYK3/giphy.webp" width="45" align="center"> Featured Projects / Proyectos Destacados
 
 | Project | Description | Tools |
 |---|---|---|
-| [K-Means: Vanish Segmentation](https://github.com/ReginaPema/kmeans-vanish-segmentation) | Market segmentation with K-Means clustering · Segmentación de mercado con K-Means | Python · Scikit-learn · PCA |
-| [EDA: Retail Sales Analysis](https://github.com/ReginaPema/eda-retail-sales-analysis) | Exploratory analysis of sales trends, patterns & outliers · Análisis exploratorio de tendencias y patrones en ventas retail | Python · Matplotlib · Seaborn |
-| [ETL: Sales Data Cleaning](https://github.com/ReginaPema/etl-sales-data-cleaning) | Multi-source data integration & transformation · Integración y transformación de datos desde múltiples fuentes | Python · Pandas · NumPy |
+| [K-Means: Vanish Segmentation](https://github.com/ReginaPema/kmeans-vanish-segmentation) | Sales segmentation and cluster analysis using K-Means · Segmentación de ventas y análisis de clústeres mediante K-Means | Python · Scikit-learn · PCA |
+| [EDA: Retail Sales Analysis](https://github.com/ReginaPema/eda-retail-sales-analysis) | Exploratory analysis of retail sales performance, trends and outliers · Análisis exploratorio del rendimiento, tendencias y valores atípicos de ventas | Python · Matplotlib · Seaborn |
+| [ETL: Sales Data Cleaning](https://github.com/ReginaPema/etl-sales-data-cleaning) | ETL pipeline for multi-source sales data cleaning and transformation · Canalización ETL para la limpieza y transformación de datos de ventas de múltiples fuentes | Python · Pandas · NumPy |
 
 ---
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmhteGhqMXlxOWtlZnA4MjRqYzd0cnRjajEzcm10Y28yem5xMGM5bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YYQ6sw8jt2HRxX4uVi/giphy.webp" width="50"> Tech Stack
+## <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmhteGhqMXlxOWtlZnA4MjRqYzd0cnRjajEzcm10Y28yem5xMGM5bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YYQ6sw8jt2HRxX4uVi/giphy.webp" width="58" align="center"> Tech Stack
 
 **Working with / Usando:**
 
@@ -66,33 +66,34 @@
 
 ---
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVsaGlxZmEyN2h6NDMxaWkzYjkzNnhwYnE0c2V6M2JzcjIyeHY5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PWPahPNXOkLlUx2Nw5/giphy.gif" width="40"> Areas of Interest / Áreas de Interés
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVsaGlxZmEyN2h6NDMxaWkzYjkzNnhwYnE0c2V6M2JzcjIyeHY5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PWPahPNXOkLlUx2Nw5/giphy.gif" width="40" align="center"> Areas of Focus / Áreas de Enfoque
 ```
-Healthtech & Health Data      →  clinical patterns + data science
-Sustainability & Environment  →  environmental engineering background  
-Fraud & Digital Security      →  1+ years detecting anomalies & risk flags
-Business Analytics            →  8+ operations management & financial reporting
+Business Analytics      → operations, KPIs & decision-making
+Fraud & Risk Analytics  → anomaly detection & behavioral patterns
+Data Visualization      → analytical storytelling & business insights
+Machine Learning        → clustering, segmentation & predictive modeling
+Sustainability          → environmental engineering background
 ```
 
 ---
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s0azk0cGRhb2M4bGV1M2lqcXI3ZTRsdGJ0bmYzdXdtdXBtcWVuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KV6r1zHy3i7mmBGGui/giphy.gif" width="40"> A little more about me...
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s0azk0cGRhb2M4bGV1M2lqcXI3ZTRsdGJ0bmYzdXdtdXBtcWVuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KV6r1zHy3i7mmBGGui/giphy.gif" width="45" align="center"> A little more about me...
 ```python
 regina = {
     "name"       : "María Regina Castillo Treviño",
     "alias"      : "Pema · པ་དྨེ། · Lotus",
-    "role"       : "Data Scientist in training",
+    "role"       : "Data Analyst & Data Scientist Jr"
     "background" : ["Healthcare", "Environmental Science", "Fraud Analytics"],
     "languages"  : ["Spanish (native)", "English (C2)", "French (basic)", "Tibetan (reading)"],
     "strengths"  : ["Interdisciplinary thinking", "Pattern recognition", "Attention to detail"],
     "weaknesses" : ["Taking on too many interests at once", "Perfectionism"],
-    "also_into"  : ["Acupuncture", "Yoga & Meditation", "Crochet", "Cats"],
+    "interests"  : ["Acupuncture", "Yoga & Meditation", "Crochet", "Cats"],
 }
 ```
 
 ---
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjg0eXA3YTB5c2xrNzRqdnUzb2YybWlrcWtjYmUyYzJibjE0YTRvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/An1Ck30OzTHunegNlw/giphy.gif" width="40"> GitHub Stats 
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjg0eXA3YTB5c2xrNzRqdnUzb2YybWlrcWtjYmUyYzJibjE0YTRvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/An1Ck30OzTHunegNlw/giphy.gif" width="40" align="center"> GitHub Stats 
 
 <div align="center">
 
