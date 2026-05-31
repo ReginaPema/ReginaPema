@@ -36,6 +36,7 @@
 
 | Project | Description | Tools |
 |---|---|---|
+| [SQL: Acupuncture Clinic DB](https://github.com/ReginaPema/sql-acupuncture-clinic) | Relational DB modeling a TCM clinic · Base de datos relacional de clínica MTC | Python · SQLite · Pandas |
 | [K-Means: Vanish Segmentation](https://github.com/ReginaPema/kmeans-vanish-segmentation) | Sales segmentation and cluster analysis using K-Means · Segmentación de ventas y análisis de clústeres mediante K-Means | Python · Scikit-learn · PCA |
 | [EDA: Retail Sales Analysis](https://github.com/ReginaPema/eda-retail-sales-analysis) | Exploratory analysis of retail sales performance, trends and outliers · Análisis exploratorio del rendimiento, tendencias y valores atípicos de ventas | Python · Matplotlib · Seaborn |
 | [ETL: Sales Data Cleaning](https://github.com/ReginaPema/etl-sales-data-cleaning) | ETL pipeline for multi-source sales data cleaning and transformation · Canalización ETL para la limpieza y transformación de datos de ventas de múltiples fuentes | Python · Pandas · NumPy |
