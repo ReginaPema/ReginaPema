@@ -37,6 +37,7 @@
 | Project | Description | Tools |
 |---|---|---|
 | [Power BI: Retail Sales Dashboard](https://github.com/ReginaPema/powerbi-retail-sales-dashboard) | 6-page interactive dashboard · Dashboard interactivo de 6 páginas | Power BI · DAX · Star Schema |
+| [SQL Retail Sales Analysis](https://github.com/ReginaPema/sql--retail-sales-analysis) | Hibrid dimensional model + 16 analytical queries · Modelo dimensional híbrido + 16 consultas analíticas | SQL Server · CTEs · Window Functions |
 | [SQL: Acupuncture Clinic DB](https://github.com/ReginaPema/sql-acupuncture-clinic) | Relational DB modeling a TCM clinic · Base de datos relacional de clínica MTC | Python · SQLite · Pandas |
 | [K-Means: Vanish Segmentation](https://github.com/ReginaPema/kmeans-vanish-segmentation) | Sales segmentation and cluster analysis using K-Means · Segmentación de ventas y análisis de clústeres mediante K-Means | Python · Scikit-learn · PCA |
 | [EDA: Retail Sales Analysis](https://github.com/ReginaPema/eda-retail-sales-analysis) | Exploratory analysis of retail sales performance, trends and outliers · Análisis exploratorio del rendimiento, tendencias y valores atípicos de ventas | Python · Matplotlib · Seaborn |
@@ -54,6 +55,7 @@
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logoColor=white)](https://learn.microsoft.com/sql/ssms)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)]()
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-76B7B2?style=flat&logo=seaborn&logoColor=white)
@@ -61,10 +63,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Orange](https://img.shields.io/badge/Orange-FF7F00?style=flat&logo=orange&logoColor=white)
-
-**Learning next / Aprendiendo:**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
 
