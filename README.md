@@ -47,8 +47,6 @@
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmhteGhqMXlxOWtlZnA4MjRqYzd0cnRjajEzcm10Y28yem5xMGM5bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YYQ6sw8jt2HRxX4uVi/giphy.webp" width="58" align="center"> Tech Stack
 
-**Working with / Usando:**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
