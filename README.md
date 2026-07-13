@@ -37,7 +37,7 @@
 | Project | Description | Tools |
 |---|---|---|
 | [Power BI: Retail Sales Dashboard](https://github.com/ReginaPema/powerbi-retail-sales-dashboard) | 6-page interactive dashboard · Dashboard interactivo de 6 páginas | Power BI · DAX · Star Schema |
-| [SQL Retail Sales Analysis](https://github.com/ReginaPema/sql-retail-sales-analysis) | Hibrid dimensional model + 16 analytical queries · Modelo dimensional híbrido + 16 consultas analíticas | SQL Server · CTEs · Window Functions |
+| [SQL: Retail Sales Analysis](https://github.com/ReginaPema/sql-retail-sales-analysis) | Hibrid dimensional model + 16 analytical queries · Modelo dimensional híbrido + 16 consultas analíticas | SQL Server · CTEs · Window Functions |
 | [SQL: Acupuncture Clinic DB](https://github.com/ReginaPema/sql-acupuncture-clinic) | Relational DB modeling a TCM clinic · Base de datos relacional de clínica MTC | Python · SQLite · Pandas |
 | [K-Means: Vanish Segmentation](https://github.com/ReginaPema/kmeans-vanish-segmentation) | Sales segmentation and cluster analysis using K-Means · Segmentación de ventas y análisis de clústeres mediante K-Means | Python · Scikit-learn · PCA |
 | [EDA: Retail Sales Analysis](https://github.com/ReginaPema/eda-retail-sales-analysis) | Exploratory analysis of retail sales performance, trends and outliers · Análisis exploratorio del rendimiento, tendencias y valores atípicos de ventas | Python · Matplotlib · Seaborn |
