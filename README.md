@@ -36,7 +36,8 @@
 
 | Project | Description | Tools |
 |---|---|---|
-| [Power BI: Retail Sales Dashboard](https://github.com/ReginaPema/powerbi-retail-sales-dashboard) | 6-page interactive dashboard · Dashboard interactivo de 6 páginas | Power BI · DAX · Star Schema |
+| [Storytelling: UN Water Sanitation Dashboard](https://github.com/ReginaPema/storytelling-un-water-sanitation) | 5-chart data narrative plus an interactive dashboard · Narrativa de 5 gráficos más un dashboard interactivo | Plotly · Dash · Python |
+| [Power BI: Retail Sales Dashboard]() | 6-page interactive dashboard · Dashboard interactivo de 6 páginas | Power BI · DAX · Star Schema |
 | [SQL: Retail Sales Analysis](https://github.com/ReginaPema/sql-retail-sales-analysis) | Hibrid dimensional model + 16 analytical queries · Modelo dimensional híbrido + 16 consultas analíticas | SQL Server · CTEs · Window Functions |
 | [SQL: Acupuncture Clinic DB](https://github.com/ReginaPema/sql-acupuncture-clinic) | Relational DB modeling a TCM clinic · Base de datos relacional de clínica MTC | Python · SQLite · Pandas |
 | [K-Means: Vanish Segmentation](https://github.com/ReginaPema/kmeans-vanish-segmentation) | Sales segmentation and cluster analysis using K-Means · Segmentación de ventas y análisis de clústeres mediante K-Means | Python · Scikit-learn · PCA |
@@ -57,6 +58,8 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-76B7B2?style=flat&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
