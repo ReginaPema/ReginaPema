@@ -36,8 +36,9 @@
 
 | Project | Description | Tools |
 |---|---|---|
+| [Sales Forecast: ARIMA/SARIMA](https://github.com/ReginaPema/ARIMA-SARIMA_sales_forecast) | Box-Jenkins vs. regression benchmark to forecast national weekly sales · Box-Jenkins vs. benchmark de regresión para pronosticar ventas semanales nacionales | Python · statsmodels · pmdarima |
 | [Storytelling: UN Water Sanitation Dashboard](https://github.com/ReginaPema/storytelling-un-water-sanitation) | 5-chart data narrative plus an interactive dashboard · Narrativa de 5 gráficos más un dashboard interactivo | Plotly · Dash · Python |
-| [Power BI: Retail Sales Dashboard]() | 6-page interactive dashboard · Dashboard interactivo de 6 páginas | Power BI · DAX · Star Schema |
+| [Power BI: Retail Sales Dashboard](https://github.com/ReginaPema/powerbi-retail-sales-dashboard) | 6-page interactive dashboard · Dashboard interactivo de 6 páginas | Power BI · DAX · Star Schema |
 | [SQL: Retail Sales Analysis](https://github.com/ReginaPema/sql-retail-sales-analysis) | Hibrid dimensional model + 16 analytical queries · Modelo dimensional híbrido + 16 consultas analíticas | SQL Server · CTEs · Window Functions |
 | [SQL: Acupuncture Clinic DB](https://github.com/ReginaPema/sql-acupuncture-clinic) | Relational DB modeling a TCM clinic · Base de datos relacional de clínica MTC | Python · SQLite · Pandas |
 | [K-Means: Vanish Segmentation](https://github.com/ReginaPema/kmeans-vanish-segmentation) | Sales segmentation and cluster analysis using K-Means · Segmentación de ventas y análisis de clústeres mediante K-Means | Python · Scikit-learn · PCA |
@@ -83,12 +84,12 @@ Sustainability          → environmental engineering background
 regina = {
     "name"       : "María Regina Castillo Treviño",
     "alias"      : "Pema · པ་དྨེ། · Lotus",
-    "role"       : "Data Analyst & Data Scientist Jr"
+    "role"       : "Data Analyst & Data Scientist Jr",
     "background" : ["Healthcare", "Environmental Science", "Fraud Analytics"],
     "languages"  : ["Spanish (native)", "English (C2)", "French (basic)", "Tibetan (reading)"],
     "strengths"  : ["Interdisciplinary thinking", "Pattern recognition", "Attention to detail"],
     "weaknesses" : ["Taking on too many interests at once", "Perfectionism"],
-    "interests"  : ["Acupuncture", "Yoga & Meditation", "Crochet", "Cats"],
+    "interests"  : ["Acupuncture", "Yoga & Meditation", "Crochet", "Cats", "Plants"],
 }
 ```
 
